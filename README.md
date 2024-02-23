@@ -1,4 +1,8 @@
 # Test Task Level 6-7
+- Fork this repo
+- Create a branch from ```scaffold``` branch
+- When ready, start PR to ```scaffold``` branch
+
 **Task**
 1. Get familiar with **Our guidelines and Project structures** (check Softonix guidelines link in section below, ReadMe)
 2. Setup IDE
