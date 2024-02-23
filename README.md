@@ -11,7 +11,7 @@
 ***App should contain***
 1. Dropdown with users
 2. Initial loading state for page (element plus v-loading)
-3. Table with posts with pagination for selected user (frontend side pagination)
+3. Table with posts with pagination of selected user (frontend side pagination)
 4. Search post by post name (search should filter all items in user posts list, not only opened page)
 6. When clicking row in posts table, show modal with post details
 7. Implement debounce for post search
