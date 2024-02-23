@@ -1,7 +1,7 @@
 # Test Task Level 6-7
-- Fork this repo
-- Create a branch from ```scaffold``` branch
-- When ready, start PR to ```scaffold``` branch
+- Please fork this repository as boilerplate.
+- Use tailwind css when building UI (except element plus libraries)
+- Please follow all frontend best practices, use Typescript without ‘any’ types, keep code small, split template into multiple components and keep each component code small, readable and maintainable.
 
 **Task**
 1. Get familiar with **Our guidelines and Project structures** (check Softonix guidelines link in section below, ReadMe)
@@ -23,7 +23,6 @@
 1. Follow Softonix Guidelines
 2. Use Tailwind for styles
 4. Use Element Plus library
-5. Use Typescript, no ```any```
 5. Use vue-use for debounce
 6. Use https://jsonplaceholder.typicode.com for mocking data
 7. You can add additional improvements to the app if you want to, will be a plus
@@ -41,7 +40,7 @@
 
 **Links you might need:**
 - [Softonix guidelines](https://github.com/Softonix/frontend-guidelines#)
-- [Doc with requirements]([https://pages.github.com/](https://docs.google.com/document/d/13nhjZ-5iXqaxsGTLssC5CA83xtj0JpqiUxE8CHpCK9w/edit)https://docs.google.com/document/d/13nhjZ-5iXqaxsGTLssC5CA83xtj0JpqiUxE8CHpCK9w/edit)
+- [Doc with requirements](https://docs.google.com/document/d/13nhjZ-5iXqaxsGTLssC5CA83xtj0JpqiUxE8CHpCK9w/edit)
 - [Link to Figma](https://www.figma.com/file/Qfv8JaR00Q2yhOqj67Ony0/Test-Task?type=design&node-id=0%3A1&mode=design&t=D5d2TQFxKW7j8ntq-1)
 - [Tailwind](https://tailwindcss.com/)
 - [ElementPlus](https://element-plus.org/en-US/)
