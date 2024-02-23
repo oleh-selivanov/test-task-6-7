@@ -17,6 +17,7 @@
 12. Show error messages when error happened (use element plus notification component)
 13. If no posts, show no posts message
 14. If no posts when filtering, show There is no such posts message
+
 **P.S. Some additional info you can find in Doc with Requirements**
     
 **Code Requirements and Packages Requirements**
