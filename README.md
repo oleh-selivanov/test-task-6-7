@@ -15,10 +15,10 @@
 4. Search post by post name (search should filter all items in user posts list, not only opened page)
 6. When clicking row in posts table, show modal with post details
 7. Implement debounce for post search
-8. When refreshing the page, last opened user should be opened again, post search input should persist (using query params)
-9. Show error messages when error happened (use element plus notification component)
-10. If no posts, show no posts message
-11. If no posts when filtering, show There is no such posts message
+8. Search inputs state should persist after refreshing the page (use query params) (dropdown with selected user, post search name, pagination page)
+10. Show error messages when error happened (use element plus notification component)
+11. If no posts, show no posts message
+12. If no posts when filtering, show There is no such posts message
 
 **P.S. Some additional info you can find in Doc with Requirements**
     
