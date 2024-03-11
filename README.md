@@ -1,5 +1,5 @@
 # Test Task Level 6-7
-- Please fork [this](https://github.com/Softonix/frontend-guidelines/tree/scaffold) repository as boilerplate (make sure you work in scaffold branch).
+- Please fork [this](https://github.com/Softonix/frontend-guidelines/tree/scaffold) repository as boilerplate (make sure you work in 'scaffold' branch).
 - Use tailwind css when building UI with Element Plus library
 - Please follow all frontend best practices, use Typescript without ‘any’ types, keep code small, split template into multiple components and keep each component code small, readable and maintainable.
 
