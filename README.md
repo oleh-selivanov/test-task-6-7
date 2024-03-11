@@ -1,10 +1,10 @@
 # Test Task Level 6-7
-- Please fork this repository as boilerplate.
+- Please fork [this](https://github.com/Softonix/frontend-guidelines/tree/scaffold) repository as boilerplate (make sure you work in scaffold branch).
 - Use tailwind css when building UI with Element Plus library
 - Please follow all frontend best practices, use Typescript without ‘any’ types, keep code small, split template into multiple components and keep each component code small, readable and maintainable.
 
 **Task**
-1. Get familiar with [Softonix guidelines](https://github.com/Softonix/frontend-guidelines#)
+1. Get familiar with [Softonix guidelines](https://github.com/Softonix/frontend-guidelines?tab=readme-ov-file#softonix-frontend-guidelines)
 2. (Optional) [Setup IDE](https://github.com/Softonix/frontend-guidelines?tab=readme-ov-file#recommended-ide-setup)
 3. Use this [link](https://www.figma.com/file/1Hy3jGYyfGHvqS6EHhvzB3/Test-Task-6-7?type=design&node-id=0%3A1&mode=design&t=nogRjXMKwtmxWrpu-1) to understand how the app should look like in Figma
 
